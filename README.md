@@ -20,3 +20,5 @@
 
 ## Credits :test_tube:
 * Dana Zerti
+* Reesha Lad
+* Aqib Kabir
